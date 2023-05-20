@@ -1,2 +1,2 @@
 # cpp-pemrograman-dasar
-Kumpulan file dalam pemrograman dasar bahasa cpp
+Ini adalah repositori untuk tugas tugas kuliah di semester 1
